@@ -1,0 +1,83 @@
+[26-Aug-2023 14:39:03 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[26-Aug-2023 14:39:03 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[26-Aug-2023 14:41:52 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[26-Aug-2023 14:41:52 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[26-Aug-2023 14:41:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[26-Aug-2023 14:41:53 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[26-Aug-2023 14:41:53 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[26-Aug-2023 14:41:53 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[26-Aug-2023 14:41:53 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[26-Aug-2023 14:41:53 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[26-Aug-2023 14:41:53 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[26-Aug-2023 14:41:54 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[26-Aug-2023 14:41:54 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[26-Aug-2023 14:41:54 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[26-Aug-2023 14:41:54 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[26-Aug-2023 14:48:02 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[26-Aug-2023 14:48:02 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[26-Aug-2023 14:48:03 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[26-Aug-2023 14:48:03 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[28-Aug-2023 18:00:37 UTC] Sync process for Gutenberg Blocks has started.
+[28-Aug-2023 18:00:37 UTC] CATEGORY:Importing categories..
+[28-Aug-2023 18:00:37 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[28-Aug-2023 18:00:37 UTC] CATEGORY:Completed category import.
+[28-Aug-2023 18:00:37 UTC] BLOCK: Getting Total Blocks
+[28-Aug-2023 18:00:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[28-Aug-2023 18:00:37 UTC] BLOCK: Requests count 4
+[28-Aug-2023 18:00:37 UTC] BLOCK: Importing request 1 ..
+[28-Aug-2023 18:00:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[28-Aug-2023 18:00:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[28-Aug-2023 18:00:38 UTC] BLOCK: Completed request 1
+[28-Aug-2023 18:00:38 UTC] BLOCK: Importing request 2 ..
+[28-Aug-2023 18:00:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[28-Aug-2023 18:00:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[28-Aug-2023 18:00:38 UTC] BLOCK: Completed request 2
+[28-Aug-2023 18:00:38 UTC] BLOCK: Importing request 3 ..
+[28-Aug-2023 18:00:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[28-Aug-2023 18:00:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[28-Aug-2023 18:00:38 UTC] BLOCK: Completed request 3
+[28-Aug-2023 18:00:38 UTC] BLOCK: Importing request 4 ..
+[28-Aug-2023 18:00:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[28-Aug-2023 18:00:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[28-Aug-2023 18:00:38 UTC] BLOCK: Completed request 4
+[28-Aug-2023 18:00:38 UTC] SITE: Getting Total Sites
+[28-Aug-2023 18:00:38 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[28-Aug-2023 18:00:39 UTC] SITE: Request count 2
+[28-Aug-2023 18:00:39 UTC] SITE: Importing request 1 ..
+[28-Aug-2023 18:00:39 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[28-Aug-2023 18:00:39 UTC] SITE: Storing in option ast-block-templates-sites-1
+[28-Aug-2023 18:00:39 UTC] SITE: Completed request 1
+[28-Aug-2023 18:00:39 UTC] SITE: Importing request 2 ..
+[28-Aug-2023 18:00:39 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[28-Aug-2023 18:00:39 UTC] SITE: Storing in option ast-block-templates-sites-2
+[28-Aug-2023 18:00:40 UTC] SITE: Completed request 2
+[28-Aug-2023 18:00:40 UTC] Sync process for Gutenberg Blocks is done.
+[29-Aug-2023 15:19:46 UTC] PHP Warning:  file_get_contents(C:\Users\UNiK\Local Sites\planty\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\functions.php on line 6691
+[29-Aug-2023 15:22:37 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[29-Aug-2023 15:22:37 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[29-Aug-2023 15:23:26 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[29-Aug-2023 15:23:26 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[29-Aug-2023 15:23:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[29-Aug-2023 15:23:27 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[29-Aug-2023 15:23:28 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[29-Aug-2023 15:23:28 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[29-Aug-2023 15:23:28 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[29-Aug-2023 15:23:28 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[29-Aug-2023 15:23:28 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[29-Aug-2023 15:23:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[29-Aug-2023 15:23:28 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[29-Aug-2023 15:23:28 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[29-Aug-2023 15:23:28 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[29-Aug-2023 15:30:39 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[29-Aug-2023 15:30:39 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[29-Aug-2023 15:30:39 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[29-Aug-2023 15:30:39 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[29-Aug-2023 15:30:39 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[29-Aug-2023 15:30:39 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[29-Aug-2023 15:30:39 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[29-Aug-2023 15:30:39 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[29-Aug-2023 15:30:39 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\UNiK\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[29-Aug-2023 15:30:39 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[29-Aug-2023 15:30:39 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
+[29-Aug-2023 15:30:39 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 261
+[29-Aug-2023 15:30:39 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\UNiK\Local Sites\planty\app\public\wp-includes\class-wp-block-parser.php on line 333
