@@ -11,3 +11,72 @@ Updated: 2023-08-26 16:41:53
 
 */
 
+/* MODIF MANUELLE DU CSS */
+
+
+    /*menu header*/
+#ast-desktop-header > div.ast-main-header-wrap.main-header-bar-wrap > div > div > div > div.site-header-primary-section-right.site-header-section.ast-flex.ast-grid-right-section > div {
+  padding-left: 0px;
+}
+
+header .custom-logo-link img {
+    max-width: 201px;
+    max-height: 19px;
+}
+#menu-item-48 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 80px;
+}
+
+#menu-item-49 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 80px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#menu-item-50 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 80px;
+    background-color: #dc9f96;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+#menu-item-50 > a {
+    color: #ffffff;
+}
+
+.image-principale-accueil {
+    border-radius: 0px 0px 100px 100px;
+    border-bottom-style: solid;
+    border-bottom-color: #E3D9D0;
+    border-bottom-width: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
